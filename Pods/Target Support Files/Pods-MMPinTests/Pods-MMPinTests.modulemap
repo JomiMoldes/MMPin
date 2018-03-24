@@ -1,6 +1,0 @@
-framework module Pods_MMPinTests {
-  umbrella header "Pods-MMPinTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
